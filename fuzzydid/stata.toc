@@ -2,4 +2,4 @@
 1
 2
 3
-p ocmt One Covariate at a Time Multiple Testing (OCMT) Use ocmt With STATA 19
+p fuzzydid Estimation with fuzzy differences-in-differences designs Use fuzzydid With STATA 19
