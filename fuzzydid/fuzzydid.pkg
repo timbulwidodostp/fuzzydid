@@ -1,0 +1,4 @@
+D 'ocmt': One Covariate at a Time Multiple Testing (OCMT) Use ocmt With STATA 19
+D
+F ocmt.ado
+F ocmt.sthlp
