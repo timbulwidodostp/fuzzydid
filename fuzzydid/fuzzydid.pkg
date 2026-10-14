@@ -1,4 +1,16 @@
-D 'ocmt': One Covariate at a Time Multiple Testing (OCMT) Use ocmt With STATA 19
+D 'fuzzydid': Estimation with fuzzy differences-in-differences designs Use fuzzydid With STATA 19
 D
-F ocmt.ado
-F ocmt.sthlp
+F build_cond_expectation_1.ado
+F build_cond_expectation_2.ado
+F createyvalues.mo
+F estim_wrapper.ado
+F five_fold_cv.ado
+F fuzzydid.ado
+F fuzzydid.sthlp
+F late_estim_nox.ado
+F late_estim_x.ado
+F legendrisation.ado
+F lqte_estim_nox.ado
+F my_sort.mo
+F qq_transfo.mo
+F special_cases.ado
