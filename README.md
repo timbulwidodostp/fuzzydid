@@ -1,6 +1,8 @@
 # fuzzydid
 Estimation with fuzzy differences-in-differences designs Use fuzzydid With STATA 19
 
+https://www.youtube.com/watch?v=i00jAxZoTxs
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
